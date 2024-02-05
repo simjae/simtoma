@@ -799,3 +799,12 @@ body:not(.user-is-tabbing) a:focus {
         padding: var(--gutter-medium) 0;
     } 
 }
+
+
+/* --------------------------------------- */
+.max__getbit__image {
+    width: 100%;
+    height: 205px;
+    object-fit: cover;
+    border-radius: 10px;
+}

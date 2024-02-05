@@ -61,3 +61,7 @@ const aderSwiper = new Swiper(".ader-swiper", {
   spaceBetween: 10,
   slidesPerView: 1.1
 });
+const getbitSwiper = new Swiper(".getbit-swiper", {
+  spaceBetween: 10,
+  slidesPerView: 3.3
+});
